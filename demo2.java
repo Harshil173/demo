@@ -4,6 +4,10 @@ class demo2
         {
             System.out.println("Hello World");
         }
+        public void hello2()
+        {
+            
+        }
         public static void main(String[] args) 
         {
             demo2 d1 = new demo2();
